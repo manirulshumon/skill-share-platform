@@ -4,6 +4,7 @@
 ---
 
 ## 📝 Description  
+SkillShare connects neighbors to share skills or request help. Built with the MERN stack (MongoDB, Express, React, Node.js) and Tailwind CSS, this platform fosters community collaboration with real-time messaging, reviews, and location-based filtering.
 SkillShare is a friendly platform where neighbors can:  
 - **Offer skills** (e.g., "I'll  teach you javaScript for 1 hour") 
 - **Request help** (e.g., "Need someone to fix my bike!").  
