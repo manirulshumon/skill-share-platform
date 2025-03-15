@@ -27,6 +27,23 @@ SkillShare is a friendly platform where neighbors can:
 - **Chat instantly** with other users.  
 - **Rate users** after completing tasks.  
 
+## Key Features Updated with details
+# User Authentication
+
+- Signup/login with email/password (JWT for tokens).
+- Simple profile page (name, bio, skills, location).
+
+# Skill/Request Posts
+
+- Users can create posts to offer a skill (e.g., "I'll teach guitar for 1 hour") or request help (e.g., "Need help fixing my laptop").
+- Each post includes a title, description, category, and location.
+
+# Browse Listings
+
+- Filter posts by category (e.g., tech, art, home repair) and location (city/zip code).
+- Display posts in a clean grid/list view.
+
+
 ---
 
 ## 🚀 Future Plans  
